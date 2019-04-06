@@ -1,0 +1,7 @@
+﻿Maçã;5
+Laranja;2
+Banana;3
+Pera;7
+Uva;1
+Abacaxi;4
+Limão;3

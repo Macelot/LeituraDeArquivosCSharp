@@ -1,0 +1,16 @@
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\bin\Debug\BuscaProduto.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\bin\Debug\BuscaProduto.pdb
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\BuscaProduto.Form1.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\BuscaProduto.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\BuscaProduto.csproj.GenerateResource.Cache
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\BuscaProduto.exe
+C:\Documents and Settings\Aluno\Configurações locais\Dados de aplicativos\Temporary Projects\BuscaProduto\obj\Debug\BuscaProduto.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\BuscaProduto.exe
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\BuscaProduto.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\bin\Debug\BuscaProduto.exe
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\bin\Debug\BuscaProduto.pdb
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\BuscaProduto.Form1.resources
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\BuscaProduto.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Meus documentos\Visual Studio 2008\Projects\BuscaProduto\BuscaProduto\obj\Debug\BuscaProduto.csproj.GenerateResource.Cache
